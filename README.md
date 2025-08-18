@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PingMoon93
 - 👀 I’m interested in Data Analysis and application of AI models in financial risk control.
-- 🌱 I graduated from University College Dublin recently, majoring in Information Systems.
+- 🌱 I graduated from University College Dublin recently, majoring in Information Systems.Currently, I am preparing for my PhD.
 - 📫 You can contact me through email: pingtao1993@gmail.com
 
 <!---
